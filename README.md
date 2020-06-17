@@ -6,7 +6,7 @@ There are total 171 features in the data set. The attribute names of the data ha
 
 Challenge Metric: 
 
-Total Cost of prediction model = Cost1 * number of False Positives + Cost2 * number of False Negatives
+Total Cost of prediction model = Cost1 * number of False Positives + Cost2 * number of False Negatives.
 Cost1 - Cost that an un-necessary check needs to be done by an mechanic (10$)
 Cost2 - Cost of missing a faulty truck, which may cause a breakdown (500$)
 
